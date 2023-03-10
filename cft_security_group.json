@@ -6,7 +6,7 @@
         "SecurityGroup": {
             "Type": "AWS::EC2::SecurityGroup",
             "Properties": {
-                "GroupName": "CFT-Test-SG",
+                "GroupName": "MY TEST-SG",
                 "GroupDescription": "security group for ",
                 "VpcId": "vpc-00688e49234bd413b",
                 "SecurityGroupIngress": [
